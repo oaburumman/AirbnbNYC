@@ -1,5 +1,8 @@
 # AirbnbNYC
 
+## Content
+This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+
 ## Data
 This data contains 16 columns, 47905 unique values(samples). Decided to wrangle the data and use imputation to clean all null values. In the EDA analysis file, thorough analysis of the dataset can be seen. Descriptive statistics taken to assess our visualization later on.
 
